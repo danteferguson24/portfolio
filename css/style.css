@@ -6,22 +6,22 @@
    border: none;    
  }
  .navbar .navbar-brand {
-   color: white;    
+   color: red;    
  }
  .navbar .navbar-brand:hover{
-   color: white;
+   color: red;
  }  
 
  .navbar .navbar-nav li a {
-   color: white;
+   color: red;
  }
  .navbar .navbar-nav li a:hover {
-   color: gray;
+   color: red;
  }
  
  .navbar-toggle{
    color: #fff;
-   border: 2px solid #fff;
+   border: 2px solid red;
  }   
 
  header {
