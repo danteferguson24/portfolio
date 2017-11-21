@@ -6,17 +6,17 @@
    border: none;    
  }
  .navbar .navbar-brand {
-   color: red;    
+   color: white;    
  }
  .navbar .navbar-brand:hover{
-   color: red;
+   color: blue;
  }  
 
  .navbar .navbar-nav li a {
-   color: red;
+   color: white;
  }
  .navbar .navbar-nav li a:hover {
-   color: red;
+   color: blue;
  }
  
  .navbar-toggle{
@@ -25,8 +25,9 @@
  }   
 
  header {
-   background: gray;
+   background: url("https://lh3.ggpht.com/FEH1nz8EHSqTg6GFFnPgxBMJzRJZ-PnhjNEKJ-vot1tF4zuQ4_xqY9WBXkv118zKJlM=h1080");
    color: white;
+   background-repeat: no-repeat;
  }   
  header img {    
    display: block;
